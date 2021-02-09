@@ -1,5 +1,5 @@
-# This programme reads in a persons name and prints Hello and the persons name
-# author: Ruth McQuillan
+#This programme reads in a persons name and prints Hello the persons name and nice to meet you
+#Author: Ruth McQuillan
 
-name = input ("Enter your name:")
-print ('Hello ' + name + '\nNice to meet you')
+name = input ("Enter your name:")                  #this line asks for the persons name
+print ('Hello ' + name + '\nNice to meet you')     #this line prints the greeting Hello, the persons name and on the next line Nice to meet you

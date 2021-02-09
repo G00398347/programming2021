@@ -1,5 +1,5 @@
-# This programme reads in a number, increments the number by 1 and prints the answer
-# author: Ruth McQuillan
+#This programme reads in a number, increments the number by 1 and prints the answer
+#Author: Ruth McQuillan
 
 str1 = input ("Enter a number here: ")      # input returns a string
 number = float (str1)                       # float converts the string to a number
