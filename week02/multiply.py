@@ -1,7 +1,12 @@
 # This programme multiplies 111 by 555
-# author: Ruth McQuillan
+# Author: Ruth McQuillan
 
-print ("What is 111*555?")                  # Question to set the context of the answer
+#this won't work
+answer = 111 * 555                         #this is simply naming the variable with no command
+
+
+#fixes
+print ("What is 111*555?")                  # question to set the context of the answer
 answer = 111 * 555                          # assigns the calculation to the variable
 print (answer)                              # prints the value of the variable ( fix 1)
 print (111*555)                             # directly prints the product of the calculation ( fix 2)
