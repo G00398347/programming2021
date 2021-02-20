@@ -1,6 +1,7 @@
 #This programme reads in a string, strips any leading or trailing spaces,
 #converts the string to lowercase
 #and outputs length for the input and output strings
+#Author: Ruth McQuillan
 
 string1 = input (str( " Please enter a string: " ))                                               #required - a string 
 normalisedString1 = string1.strip () .lower ()                                                    #strips out spaces and coverts string to all lower case 

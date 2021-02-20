@@ -1,5 +1,5 @@
 #This programme uses type function  in python to check variable types
-#Author : Ruth McQuillan
+#Author: Ruth McQuillan
 
 #varialbes are assigned names
 i = 3
