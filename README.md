@@ -13,5 +13,7 @@ Lab 2.3.8: Eggs is a valid variable name because it does not begin with a number
 Lab 2.3.9: https://docs.python.org/3/library/functions.html
  Use int()   to return an intetger object constructed from a number or string x or return 0if no arguments are given
  Use float() to return a floating point number from a number or string x
- Use str()   to return a string version of object           
+ Use str()   to return a string version of object 
+
+ Lab 3.2.1 : Observation : Rounding- although there is a warning in the lab that round rounds to the nearest even number there is also the issue of whether you are above or  below .5. E.g 6.5 rounds to 6 (nearest even number), but 6.6 rounds to 7 (odd number) . 
             
