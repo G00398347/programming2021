@@ -28,3 +28,6 @@ Lab 2.3.9: referenced https://docs.python.org/3/library/functions.html
  Lab3.3.1: referehced  https://stackoverflow.com/questions/4488570/how-do-i-write-a-tab-in-python
  and https://stackoverflow.com/questions/11497376/how-do-i-specify-new-lines-on-python-when-writing-on-files#
  Learning point also here in respect of putting in two tabs to line up the output correctly in the printed answer.
+
+Lab 4.0 referenced https://stackoverflow.com/questions/21837208/check-if-a-number-is-odd-or-even-in-python/21837247
+ The % sign is like division only it checks for the remainder, so if the number divided by 2 has a remainder of 0 it's even otherwise odd.
