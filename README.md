@@ -29,5 +29,34 @@ Lab 2.3.9: referenced https://docs.python.org/3/library/functions.html
  and https://stackoverflow.com/questions/11497376/how-do-i-specify-new-lines-on-python-when-writing-on-files#
  Learning point also here in respect of putting in two tabs to line up the output correctly in the printed answer.
 
+ I have created two Visual Studio Code files to mess around with strings and test string methods in week03 folder
+
 Lab 4.0 referenced https://stackoverflow.com/questions/21837208/check-if-a-number-is-odd-or-even-in-python/21837247
  The % sign is like division only it checks for the remainder, so if the number divided by 2 has a remainder of 0 it's even otherwise odd.
+
+
+
+
+
+
+
+ Research re Booleans: referenced https://www.w3schools.com/python/python_booleans.asp
+ In programming you often need to know if an expression is True or False.You can evaluate any expression in Python, and get one of two answers, True or False.
+ When you compare two values, the expression is evaluated and Python returns the Boolean answer:
+ When you run a condition in an if statement, Python returns True or False:
+
+Most Values are True: Almost any value is evaluated to True if it has some sort of content.
+Any string is True, except empty strings.
+Any number is True, except 0.
+Any list, tuple, set, and dictionary are True, except empty ones.
+
+There are not many values that evaluate to False, except empty values, such as (), [], {}, "", the number 0, and the value None. And of course the value False evaluates to False.
+
+ I have created a Visual Studio Code file to mess around and test Booleans in week04 folder
+ I have created a Visual Studio Code file to mess around and test Operators in week04 folder
+
+
+ Research on operators : https://www.programiz.com/python-programming/operators
+ Arithmetic operators, assignment operators, comparison operators, logical operators, identity operators, membership operators, bitwise operators
+
+Further research and tutorials :https://www.w3schools.com/python/python_operators.asp
